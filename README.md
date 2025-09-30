@@ -12,5 +12,16 @@ We have to connect to them remotely
 
 This Lab explores that concept.
 
+## What it does?
+It's a simple HTML + Javascript that toggles a lightbuild image.
+
+## Customizations
+- First name (Andy) appers on the screen/page
+- Background color change
+- Update the text and formatted neatly
+
+## Changes:
+- README.md file is neatly formated
+- Describing the content of the purpose of respository.
 
 
